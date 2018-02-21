@@ -22,5 +22,5 @@ function test() {
 }
 
 function test2() {
-
+    print_r("test");
 }
